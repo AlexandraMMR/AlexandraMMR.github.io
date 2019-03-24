@@ -1,10 +1,26 @@
 ---
 layout: default
 title: Maria-Alexandra Radu, unicorn lover
+sitemap:
+  priority: 0.9
+  changefreq: daily
 ---
-<div class="blurb">
-	<h1>Hi there, I'm Alex Radu!</h1>
-		<p>I'm best known as a lover of unicorns and all things magical, including things built with data or code. 
-		<br><a href="/about">Read more about my story...</a></p>	
+
+<div class="about-blurb">
+	<h1>Hi there, I'm Alex!</h1>
+		<p>I'm best known as a lover of unicorns and all things magical, including things built with data or code. I work at JPMC as a software engineer and am doing an MSc Computer Science part-time.
+		<br><a href="/about">Read more about my story here.</a></p>
+	
+	<p class="about-blurb__icons">
+    	<a rel="nofollow" href="http://github.com/AlexandraMMR/"><i class="icon-github"></i></a>
+    	<a rel="nofollow" href="http://twitter.com/AlexandraMMR/"><i class="icon-twitter"></i></a>
+    	<a rel="nofollow" href="mailto:mmaradu@gmail.com"><i class="icon-mail"></i></a>
+  </p>
 </div><!-- /.blurb -->
 
+<hr>
+<ul class="posts">
+  {% for post in site.posts limit:5 %}
+    <li><a href="{{ post.url }}">{{ post.title }}</a><span class="posts__date">{{ post.date | date_to_string }}</span></li>
+  {% endfor %}
+</ul>
