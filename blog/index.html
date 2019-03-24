@@ -1,25 +1,16 @@
 ---
 layout: default
-notes: active
-title: Alex Radu's Blog
+title: Alex's Blog
+sitemap:
+  changefreq: daily
 ---
 
-<div class="notes">
-		<div class="note single">
-			
-			<h2 class="date"><info datetime="{{ page.date }}">
-				{{ page.date | date_to_string }} {% if page.author %} by {{ page.author }} {% endif %}
-			</info></h2>
-			<!-- Post content -->
-			<div class="notebody">
-				{{ content }}
-			</div>
-			<!-- Post info -->
-			<div class="noteinfo">
-			<!-- include some categories and tags maybe? -->
-			</div>
-
-			<hr>
-
-		</div><!-- / .note .single -->
-</div><!-- /.notes -->
+<ul class="posts-archive">
+  {% for post in site.posts %}
+    <li>
+    <a href="{{ post.url }}"><h3>{{ post.title }}</h3></a>
+      <span class="posts-archive__date">{{ post.date | date_to_string }}</span>
+      {{ post.content | strip_html | truncatewords:42 }}
+    </li>
+  {% endfor %}
+</ul>
