@@ -1,4 +1,5 @@
 name: Maria-Alexandra Radu, unicorn lover
+markdown: kramdown
 permalink: /blog/:title/
 
 theme: jekyll-theme-cayman
