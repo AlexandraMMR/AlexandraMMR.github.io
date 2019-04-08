@@ -1,5 +1,7 @@
 name: Maria-Alexandra Radu, unicorn lover
 markdown: kramdown
 permalink: /blog/:title/
+baseurl: /PROJECT
+url: http://AlexandraMMR.github.io
 
 theme: jekyll-theme-cayman
