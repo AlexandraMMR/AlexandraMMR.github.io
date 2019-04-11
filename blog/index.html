@@ -8,7 +8,7 @@ sitemap:
 <ul class="posts-archive">
   {% for post in site.posts %}
     <li>
-    <a href="{{ post.url }}"> <h5>{{ post.title }}</a>
+    <a href="{{ post.url }}"> <h5>{{ post.title }}</a> <br>
       <span class="posts-archive__date">{{ post.date | date_to_string }}</span>
      {{ post.content | strip_html | truncatewords:20 }}</h5>
     </li>
