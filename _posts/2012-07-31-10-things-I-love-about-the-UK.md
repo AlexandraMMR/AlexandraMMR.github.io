@@ -1,9 +1,9 @@
-
 ---
 layout: post
 title: "10 things I love about the UK"
 
 ---
+
 
 Today's post is a sequel of the previous 10 things I love... post and since I was in England for quite some time during the past 2 years since I turned 18 I can make a shortlist of things that I love about it just like in the case of Romania. Even if I travelled on my own when I came to the UK I always found my friends there and even made some unexpected new ones, like the French guy that took me out for a coffee 2 weeks ago just because we were waiting for the rain to stop in the same place. 
 
