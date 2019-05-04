@@ -29,6 +29,6 @@ Without further ado, here are 10 of the many reasons why I love Romania:
 10. This is where half of my life is, it's where I've grown into who I am. I spent almost 20 years here, I could say the most important 20 as this is where I became ME and where I discovered what I wish to become in the future, I am not talking about a profession but a path in life and living.
 
 <img src="https://4.bp.blogspot.com/-7ysw7K0UEZU/UBA9rudn0vI/AAAAAAAAAK0/4w3WoncpD6o/s1600/DSC_0180.jpg" alt="Romania - mountain creek in winter. 2012"
-	title="Romania - mountain creek in winter. 2012" width="50%" align="center" />
+	title="Romania - mountain creek in winter. 2012" width="50%" align="middle" />
 
 Romania is the most beautiful place on Earth for me because it is me.
