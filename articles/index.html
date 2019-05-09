@@ -6,7 +6,7 @@ sitemap:
 ---
 
 <ul class="posts-archive">
-  {% for post in site.articles %}
+  {% for post in site.articleposts %}
     <li>
     <a href="{{ post.url }}"> <h5>{{ post.title }}</a> <br>
       <span class="posts-archive__date">{{ post.date | date_to_string }}</span>
