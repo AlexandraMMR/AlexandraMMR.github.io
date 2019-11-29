@@ -1,18 +1,14 @@
+---
+layout: post
+title: "GitHub Universe 2019 - my highlights"
+
+---
+
 GitHub Universe is a global conference that brings together the people who are changing the world through software. 
 It invites you to join a community connected by code and turn ideas into innovations!
 
 
 The conference had sessions, break-out talks, and expert panels covering technical topics and big ideas alike across five tracks: enterprise, open source, ecosystem, skills, and product. It happens in SF, at the Palace of Fine Arts, which is an amazing venue. I also got to do a 3 hour touristy tour of SF, being my first time in the US and got some lovely weather for it (smile) 
-
-Ignite > 2019/11/29 > GitHub Universe 2019 Conference Highlights > IMG_20191115_170431_1.jpgIgnite > 2019/11/29 > GitHub Universe 2019 Conference Highlights > IMG_20191115_164459.jpgIgnite > 2019/11/29 > GitHub Universe 2019 Conference Highlights > IMG_20191115_160328.jpgIgnite > 2019/11/29 > GitHub Universe 2019 Conference Highlights > MVIMG_20191113_074206.jpgIgnite > 2019/11/29 > GitHub Universe 2019 Conference Highlights > IMG_20191113_063416.jpgIgnite > 2019/11/29 > GitHub Universe 2019 Conference Highlights > IMG_20191116_133157.jpg
-
-
-
-
-
-
-
-
 
 They also had 2 keynotes where they announced new features and products, including their GitHub Security Lab (https://github.blog/2019-11-14-announcing-github-security-lab-securing-the-worlds-code-together/) where JP Morgan are joining in this effort, donating their time and expertise to find and report vulnerabilities in open source software. (star)
 
